@@ -1,0 +1,584 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: email-customizer-woocommerce-premium\n"
+"POT-Creation-Date: 2016-10-14 14:35+0530\n"
+"PO-Revision-Date: 2016-10-14 18:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: wordpress  <wordpress@smackcoders.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_url__;__;e_;"
+"esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/SWCM_Actions.php:236 includes/SWCM_Actions.php:239
+#, php-format
+msgid "Order %s delivered"
+msgstr ""
+
+#: includes/SWCM_Product_Category.php:106 includes/SWCM_HomePage.php:605
+msgid "Drag and use the variables"
+msgstr "Перетащите и использовать переменные"
+
+#: includes/SWCM_Product_Category.php:135
+msgid "Add New Template"
+msgstr "Добавить новый шаблон"
+
+#: includes/SWCM_Product_Category.php:140 includes/SWCM_HomePage.php:98
+msgid "Template Name"
+msgstr "Имя Шаблона"
+
+#: includes/SWCM_Product_Category.php:141
+msgid "Type"
+msgstr "Тип"
+
+#: includes/SWCM_Product_Category.php:142 includes/SWCM_HomePage.php:99
+msgid "Actions"
+msgstr "действия"
+
+#: includes/SWCM_Product_Category.php:171
+#: templates/woocommerce/emails/customer-note.php:78
+#: templates/woocommerce/emails/customer-processing-order.php:83
+#: templates/woocommerce/emails/customer-on-hold-order.php:78
+#: templates/woocommerce/emails/customer-invoice.php:88
+#: templates/woocommerce/emails/customer-completed-order.php:86
+#: templates/woocommerce/emails/admin-new-order.php:84
+#: templates/woocommerce/emails/customer-refunded-order.php:84
+#: templates/woocommerce/emails/customer-product-based.php:121
+#: templates/woocommerce/emails/admin-failed-order.php:79
+#: templates/woocommerce/emails/product-delivered-order.php:88
+#: templates/woocommerce/emails/admin-cancelled-order.php:79
+msgid "Product"
+msgstr "Продукт"
+
+#: includes/SWCM_Product_Category.php:173
+#: includes/SWCM_Product_Category.php:197 includes/SWCM_HomePage.php:105
+#: includes/SWCM_HomePage.php:114 includes/SWCM_HomePage.php:123
+#: includes/SWCM_HomePage.php:132 includes/SWCM_HomePage.php:141
+#: includes/SWCM_HomePage.php:150 includes/SWCM_HomePage.php:159
+#: includes/SWCM_HomePage.php:168 includes/SWCM_HomePage.php:177
+#: includes/SWCM_HomePage.php:186 includes/SWCM_HomePage.php:195
+#: includes/SWCM_HomePage.php:204
+msgid "Edit"
+msgstr "редактировать"
+
+#: includes/SWCM_Product_Category.php:175
+#: includes/SWCM_Product_Category.php:199
+#: includes/SWCM_Product_Category.php:666 includes/SWCM_HomePage.php:107
+#: includes/SWCM_HomePage.php:116 includes/SWCM_HomePage.php:125
+#: includes/SWCM_HomePage.php:134 includes/SWCM_HomePage.php:143
+#: includes/SWCM_HomePage.php:152 includes/SWCM_HomePage.php:161
+#: includes/SWCM_HomePage.php:170 includes/SWCM_HomePage.php:179
+#: includes/SWCM_HomePage.php:188 includes/SWCM_HomePage.php:197
+#: includes/SWCM_HomePage.php:206 includes/SWCM_HomePage.php:446
+msgid "Preview"
+msgstr "предварительный просмотр"
+
+#: includes/SWCM_Product_Category.php:195
+msgid "Category"
+msgstr "категория"
+
+#: includes/SWCM_Product_Category.php:268
+msgid "Product Based Custom Template"
+msgstr "Продукт на основе пользовательского шаблона"
+
+#: includes/SWCM_Product_Category.php:274
+msgid "Your Current Store is"
+msgstr "Ваш Текущий Магазин"
+
+#: includes/SWCM_Product_Category.php:279
+msgid "Choose Template Type"
+msgstr "Выберите тип шаблона"
+
+#: includes/SWCM_Product_Category.php:297
+msgid "Choose Product"
+msgstr "Выберите продукт"
+
+#: includes/SWCM_Product_Category.php:299
+msgid "Choose Category"
+msgstr "Выберите категорию"
+
+#: includes/SWCM_Product_Category.php:431 includes/SWCM_HomePage.php:266
+msgid "Template Customization"
+msgstr "Настройка шаблона"
+
+#: includes/SWCM_Product_Category.php:443 includes/SWCM_HomePage.php:275
+msgid "Template Text"
+msgstr "Шаблон текста"
+
+#: includes/SWCM_Product_Category.php:456 includes/SWCM_HomePage.php:284
+msgid "Subject"
+msgstr "Предмет"
+
+#: includes/SWCM_Product_Category.php:467 includes/SWCM_HomePage.php:291
+msgid "Content"
+msgstr "содержание"
+
+#: includes/SWCM_Product_Category.php:492
+msgid "WooCommerce Product Details"
+msgstr "WooCommerce Подробная информация о продукте"
+
+#: includes/SWCM_Product_Category.php:509 includes/SWCM_HomePage.php:332
+msgid "Appearance"
+msgstr "Внешность"
+
+#: includes/SWCM_Product_Category.php:520 includes/SWCM_HomePage.php:341
+msgid "Background Color"
+msgstr "Фоновый цвет"
+
+#: includes/SWCM_Product_Category.php:534 includes/SWCM_HomePage.php:351
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: includes/SWCM_Product_Category.php:553 includes/SWCM_HomePage.php:363
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: includes/SWCM_Product_Category.php:560 includes/SWCM_HomePage.php:368
+msgid "Logo"
+msgstr "логотип"
+
+#: includes/SWCM_Product_Category.php:568 includes/SWCM_HomePage.php:372
+msgid "Logo position"
+msgstr "Логотип позиции"
+
+#: includes/SWCM_Product_Category.php:590 includes/SWCM_HomePage.php:386
+msgid "Logo Band Color"
+msgstr "Логотип Цвет диапазона"
+
+#: includes/SWCM_Product_Category.php:612 includes/SWCM_HomePage.php:405
+msgid "Social Links"
+msgstr "Social Links"
+
+#: includes/SWCM_Product_Category.php:620 includes/SWCM_HomePage.php:413
+msgid "Facebook URI"
+msgstr "Facebook URI"
+
+#: includes/SWCM_Product_Category.php:628 includes/SWCM_HomePage.php:417
+msgid "Twitter URI"
+msgstr "Twitter URI"
+
+#: includes/SWCM_Product_Category.php:633 includes/SWCM_HomePage.php:421
+msgid "Google+ URI"
+msgstr "Google+ URI"
+
+#: includes/SWCM_Product_Category.php:637 includes/SWCM_HomePage.php:425
+msgid "LinkedIn URI"
+msgstr "LinkedIn URI"
+
+#: includes/SWCM_Product_Category.php:641 includes/SWCM_HomePage.php:429
+msgid "Skype URI"
+msgstr "Skype URI"
+
+#: includes/SWCM_Product_Category.php:645 includes/SWCM_HomePage.php:433
+msgid "Youtube URI"
+msgstr "Youtube URI"
+
+#: includes/SWCM_Product_Category.php:665
+#: includes/SWCM_Product_Category.php:772
+#: includes/SWCM_Product_Category.php:775 includes/SWCM_HomePage.php:445
+#: includes/SWCM_HomePage.php:558 includes/SWCM_HomePage.php:561
+msgid "<< Back"
+msgstr "<< Назад"
+
+#: includes/SWCM_Product_Category.php:665 includes/SWCM_HomePage.php:445
+msgid "Discard"
+msgstr "отбрасывать"
+
+#: includes/SWCM_Product_Category.php:666 includes/SWCM_HomePage.php:446
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/SWCM_Product_Category.php:752 includes/SWCM_HomePage.php:548
+msgid "Template Preview"
+msgstr "шаблон предварительный просмотр"
+
+#: includes/SWCM_Product_Category.php:781 includes/SWCM_HomePage.php:567
+msgid "Send Test Mail"
+msgstr "Send Test Mail"
+
+#: includes/SWCM_HomePage.php:97
+msgid "Order Status"
+msgstr "Статус заказа"
+
+#: includes/SWCM_HomePage.php:102
+msgid "New Order"
+msgstr "Новый заказ"
+
+#: includes/SWCM_HomePage.php:111
+msgid "On Hold Order"
+msgstr "On Hold Заказать"
+
+#: includes/SWCM_HomePage.php:120
+msgid "Failed Order"
+msgstr "Ошибка заказа"
+
+#: includes/SWCM_HomePage.php:129
+msgid "Cancelled Order"
+msgstr "Отменено Заказать"
+
+#: includes/SWCM_HomePage.php:138
+msgid "Processing Order"
+msgstr "Обработка заказов"
+
+#: includes/SWCM_HomePage.php:147
+msgid "Completed Order"
+msgstr "Выполненный заказ"
+
+#: includes/SWCM_HomePage.php:156
+msgid "Refunded Order"
+msgstr "отмененного заказа"
+
+#: includes/SWCM_HomePage.php:165
+msgid "Customer Invoice"
+msgstr "Счет клиента"
+
+#: includes/SWCM_HomePage.php:174
+msgid "Customer Note"
+msgstr "Примечание клиента"
+
+#: includes/SWCM_HomePage.php:183
+msgid "Reset Password"
+msgstr "Сброс пароля"
+
+#: includes/SWCM_HomePage.php:192
+msgid "New Account"
+msgstr "Новый аккаунт"
+
+#: includes/SWCM_HomePage.php:201
+msgid "Product Delivered"
+msgstr "отгруженной продукции"
+
+#: includes/SWCM_HomePage.php:315
+msgid "WooCommerce Order Details"
+msgstr "WooCommerce Информация для заказа"
+
+#: includes/class-wc-product-delivered-email.php:145
+#, php-format
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: includes/class-wc-product-delivered-email.php:156
+msgid "Plain text"
+msgstr ""
+
+#: includes/class-wc-product-delivered-email.php:157
+msgid "HTML"
+msgstr ""
+
+#: includes/class-wc-product-delivered-email.php:158
+msgid "Multipart"
+msgstr ""
+
+#: templates/SWCM_Menu.php:21
+msgid "Order based Template"
+msgstr "Заказать шаблон на основе"
+
+#: templates/SWCM_Menu.php:26
+msgid "Product / Category based Template"
+msgstr "Продукт / Шаблон на основе Категория"
+
+#: templates/woocommerce/emails/customer-new-account.php:46
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: templates/woocommerce/emails/customer-new-account.php:50
+#: templates/woocommerce/emails/plain/customer-new-account.php:21
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: templates/woocommerce/emails/customer-new-account.php:89
+#: templates/woocommerce/emails/customer-note.php:167
+#: templates/woocommerce/emails/customer-processing-order.php:174
+#: templates/woocommerce/emails/customer-on-hold-order.php:168
+#: templates/woocommerce/emails/customer-invoice.php:153
+#: templates/woocommerce/emails/customer-completed-order.php:178
+#: templates/woocommerce/emails/admin-new-order.php:172
+#: templates/woocommerce/emails/customer-refunded-order.php:176
+#: templates/woocommerce/emails/customer-reset-password.php:75
+#: templates/woocommerce/emails/customer-product-based.php:207
+#: templates/woocommerce/emails/admin-failed-order.php:162
+#: templates/woocommerce/emails/product-delivered-order.php:155
+#: templates/woocommerce/emails/admin-cancelled-order.php:169
+msgid "You can check the status of your order by"
+msgstr "Вы можете проверить состояние вашего заказа"
+
+#: templates/woocommerce/emails/customer-new-account.php:89
+#: templates/woocommerce/emails/customer-note.php:167
+#: templates/woocommerce/emails/customer-processing-order.php:174
+#: templates/woocommerce/emails/customer-on-hold-order.php:168
+#: templates/woocommerce/emails/customer-invoice.php:153
+#: templates/woocommerce/emails/customer-completed-order.php:178
+#: templates/woocommerce/emails/admin-new-order.php:172
+#: templates/woocommerce/emails/customer-refunded-order.php:176
+#: templates/woocommerce/emails/customer-reset-password.php:75
+#: templates/woocommerce/emails/customer-product-based.php:207
+#: templates/woocommerce/emails/admin-failed-order.php:162
+#: templates/woocommerce/emails/product-delivered-order.php:155
+#: templates/woocommerce/emails/admin-cancelled-order.php:169
+msgid "login your account."
+msgstr "войти в свой аккаунт."
+
+#: templates/woocommerce/emails/customer-note.php:56
+#: templates/woocommerce/emails/customer-processing-order.php:61
+#: templates/woocommerce/emails/customer-on-hold-order.php:56
+#: templates/woocommerce/emails/customer-invoice.php:66
+#: templates/woocommerce/emails/customer-completed-order.php:64
+#: templates/woocommerce/emails/admin-new-order.php:62
+#: templates/woocommerce/emails/customer-refunded-order.php:62
+#: templates/woocommerce/emails/customer-product-based.php:101
+#: templates/woocommerce/emails/admin-failed-order.php:57
+#: templates/woocommerce/emails/product-delivered-order.php:66
+#: templates/woocommerce/emails/admin-cancelled-order.php:57
+msgid "Order Details"
+msgstr "Информация для заказа"
+
+#: templates/woocommerce/emails/customer-note.php:62
+#: templates/woocommerce/emails/customer-processing-order.php:67
+#: templates/woocommerce/emails/customer-on-hold-order.php:62
+#: templates/woocommerce/emails/customer-invoice.php:72
+#: templates/woocommerce/emails/customer-completed-order.php:70
+#: templates/woocommerce/emails/admin-new-order.php:68
+#: templates/woocommerce/emails/customer-refunded-order.php:68
+#: templates/woocommerce/emails/customer-product-based.php:106
+#: templates/woocommerce/emails/admin-failed-order.php:63
+#: templates/woocommerce/emails/product-delivered-order.php:72
+#: templates/woocommerce/emails/admin-cancelled-order.php:63
+msgid "Order Number"
+msgstr "Номер заказа"
+
+#: templates/woocommerce/emails/customer-note.php:68
+#: templates/woocommerce/emails/customer-processing-order.php:73
+#: templates/woocommerce/emails/customer-on-hold-order.php:68
+#: templates/woocommerce/emails/customer-invoice.php:78
+#: templates/woocommerce/emails/customer-completed-order.php:76
+#: templates/woocommerce/emails/admin-new-order.php:74
+#: templates/woocommerce/emails/customer-refunded-order.php:74
+#: templates/woocommerce/emails/customer-product-based.php:112
+#: templates/woocommerce/emails/customer-product-based.php:168
+#: templates/woocommerce/emails/admin-failed-order.php:69
+#: templates/woocommerce/emails/product-delivered-order.php:78
+#: templates/woocommerce/emails/admin-cancelled-order.php:69
+msgid "Order Date"
+msgstr "Дата заказа"
+
+#: templates/woocommerce/emails/customer-note.php:79
+#: templates/woocommerce/emails/customer-processing-order.php:84
+#: templates/woocommerce/emails/customer-on-hold-order.php:79
+#: templates/woocommerce/emails/customer-invoice.php:89
+#: templates/woocommerce/emails/customer-completed-order.php:87
+#: templates/woocommerce/emails/admin-new-order.php:85
+#: templates/woocommerce/emails/customer-refunded-order.php:85
+#: templates/woocommerce/emails/customer-product-based.php:122
+#: templates/woocommerce/emails/admin-failed-order.php:80
+#: templates/woocommerce/emails/product-delivered-order.php:89
+#: templates/woocommerce/emails/admin-cancelled-order.php:80
+msgid "Quantity"
+msgstr "Количество"
+
+#: templates/woocommerce/emails/customer-note.php:80
+#: templates/woocommerce/emails/customer-processing-order.php:85
+#: templates/woocommerce/emails/customer-on-hold-order.php:80
+#: templates/woocommerce/emails/customer-invoice.php:90
+#: templates/woocommerce/emails/customer-completed-order.php:88
+#: templates/woocommerce/emails/admin-new-order.php:86
+#: templates/woocommerce/emails/customer-refunded-order.php:86
+#: templates/woocommerce/emails/customer-product-based.php:123
+#: templates/woocommerce/emails/admin-failed-order.php:81
+#: templates/woocommerce/emails/product-delivered-order.php:90
+#: templates/woocommerce/emails/admin-cancelled-order.php:81
+msgid "Price"
+msgstr "Цена"
+
+#: templates/woocommerce/emails/customer-note.php:123
+#: templates/woocommerce/emails/customer-processing-order.php:130
+#: templates/woocommerce/emails/customer-on-hold-order.php:125
+#: templates/woocommerce/emails/customer-completed-order.php:134
+#: templates/woocommerce/emails/admin-new-order.php:130
+#: templates/woocommerce/emails/customer-refunded-order.php:131
+#: templates/woocommerce/emails/admin-failed-order.php:126
+#: templates/woocommerce/emails/admin-cancelled-order.php:126
+msgid "Customer Details"
+msgstr "реквизиты клиента"
+
+#: templates/woocommerce/emails/customer-note.php:126
+#: templates/woocommerce/emails/customer-processing-order.php:133
+#: templates/woocommerce/emails/customer-on-hold-order.php:128
+#: templates/woocommerce/emails/customer-completed-order.php:137
+#: templates/woocommerce/emails/admin-new-order.php:133
+#: templates/woocommerce/emails/customer-refunded-order.php:134
+#: templates/woocommerce/emails/admin-failed-order.php:129
+#: templates/woocommerce/emails/admin-cancelled-order.php:129
+msgid "Email"
+msgstr "Email"
+
+#: templates/woocommerce/emails/customer-note.php:129
+#: templates/woocommerce/emails/customer-processing-order.php:136
+#: templates/woocommerce/emails/customer-on-hold-order.php:131
+#: templates/woocommerce/emails/customer-completed-order.php:140
+#: templates/woocommerce/emails/admin-new-order.php:136
+#: templates/woocommerce/emails/customer-refunded-order.php:137
+#: templates/woocommerce/emails/admin-failed-order.php:132
+#: templates/woocommerce/emails/admin-cancelled-order.php:132
+msgid "Telephone"
+msgstr "телефон"
+
+#: templates/woocommerce/emails/customer-reset-password.php:39
+msgid "Click here to reset your password"
+msgstr "Нажмите здесь, чтобы сбросить пароль"
+
+#: templates/woocommerce/emails/customer-product-based.php:160
+msgid "Product Name"
+msgstr "наименование товара"
+
+#: templates/woocommerce/emails/customer-product-based.php:164
+msgid "Email Address"
+msgstr "Email Адрес"
+
+#: templates/woocommerce/emails/email-order-items.php:25
+msgid "Product Image"
+msgstr "Платежный адрес"
+
+#: templates/woocommerce/emails/email-addresses.php:19
+#: templates/woocommerce/emails/plain/email-addresses.php:14
+msgid "Billing address"
+msgstr "Платежный адрес"
+
+#: templates/woocommerce/emails/email-addresses.php:25
+#: templates/woocommerce/emails/plain/email-addresses.php:18
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: templates/woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-new-account.php:19
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-note.php:16
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-note.php:24
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-note.php:30
+#: templates/woocommerce/emails/plain/customer-processing-order.php:22
+#: templates/woocommerce/emails/plain/customer-invoice.php:23
+#: templates/woocommerce/emails/plain/customer-completed-order.php:22
+#: templates/woocommerce/emails/plain/admin-new-order.php:22
+#: templates/woocommerce/emails/plain/customer-refunded-order.php:22
+#: templates/woocommerce/emails/plain/admin-cancelled-order.php:21
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-note.php:31
+#: templates/woocommerce/emails/plain/customer-processing-order.php:23
+#: templates/woocommerce/emails/plain/customer-invoice.php:24
+#: templates/woocommerce/emails/plain/customer-completed-order.php:23
+#: templates/woocommerce/emails/plain/admin-new-order.php:23
+#: templates/woocommerce/emails/plain/customer-refunded-order.php:23
+#: templates/woocommerce/emails/plain/admin-cancelled-order.php:22
+msgid "jS F Y"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-processing-order.php:16
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-invoice.php:17
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-completed-order.php:16
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/admin-new-order.php:16
+#, php-format
+msgid "You have received an order from %s."
+msgstr ""
+
+#: templates/woocommerce/emails/plain/admin-new-order.php:37
+#: templates/woocommerce/emails/plain/admin-cancelled-order.php:36
+#, php-format
+msgid "View order: %s"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-refunded-order.php:16
+#, php-format
+msgid ""
+"Hi there. Your order on %s has been refunded. Your order details are shown "
+"below for your reference:"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-refunded-order.php:32
+msgid "Amount Refunded"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-reset-password.php:16
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-reset-password.php:18
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-reset-password.php:19
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: templates/woocommerce/emails/plain/customer-reset-password.php:20
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/email-order-items.php:35
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/email-order-items.php:38
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/email-order-items.php:49
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/email-order-items.php:51
+msgid "Download"
+msgstr ""
+
+#: templates/woocommerce/emails/plain/admin-cancelled-order.php:15
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr ""

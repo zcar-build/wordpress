@@ -1,0 +1,18 @@
+/*
+Theme Name:   shop-isle-Child
+Theme URI:    http://misitio.com/shop-isle-child/
+Description:  Child theme para modificaciones varias
+Author:       marlon
+Author URI:   http://misitio.com
+Template:     shop-isle
+Version:      1.1.49
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  shop-isle
+*/
+@import url(../shop-isle/style.css);
+@import url(../shop-isle/index.php);
+@import url(../shop-isle/functions.php);
+
+.et-cart-info { display:none; }

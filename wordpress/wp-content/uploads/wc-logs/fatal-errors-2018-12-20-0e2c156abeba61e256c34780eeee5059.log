@@ -1,0 +1,257 @@
+2018-12-20T04:21:26+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:23:09+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:24:30+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:25:29+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:27:29+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:28:29+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:30:29+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:31:30+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:32:43+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:33:44+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:34:45+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:35:53+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T04:37:02+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T15:22:27+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T15:22:30+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T15:30:25+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T15:30:26+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T15:30:40+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T15:30:41+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T15:33:16+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+
+2018-12-20T15:33:17+00:00 CRITICAL Uncaught Error: Call to a member function has_cap() on null in C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php:517
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): update_user_capabilities('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(467): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(81): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-cron.php(33): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wordpressdeploy\wpdeploy.php en la línea 517
+

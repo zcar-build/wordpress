@@ -1,0 +1,677 @@
+.swcm_dropdown_length
+{
+width:150px;
+}
+
+.swcm_font_style
+{
+font-family: '-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif';
+}
+
+.swcm_main_title
+{
+padding: 1% 1.5%;
+background:#DCD8D4;
+border: 1px solid #C6C2BF;
+border-radius: 6px 6px 0px 0px;
+font-weight: bold;
+text-align: left;
+font-size: 18px;
+}
+
+#swcm_main_table  tr > th
+{
+font-size:15px;
+text-align: left;
+}
+
+#swcm_main_page {
+        font-family: "Open Sans",sans-serif !important;
+}
+#swcm_main_table tr > td
+{
+/*font-size:13px;*/
+text-align: left;
+/*padding:5px;*/
+}
+
+.swcm_view_template_link {
+background:none!important;
+border:none;
+padding:0!important;
+font: inherit;
+color:#347ECA;
+/*border is optional*/
+/*     border-bottom:1px solid #444; */
+cursor: pointer;
+}
+
+/*em-hide
+
+.panel-group .panel {
+        margin-bottom: 5px !important;
+}
+.panel {
+        border: 0;
+}
+.panel-body {
+    border: 1px solid #ccc;
+    border-radius: 0px 0px 6px 6px;
+}
+.panel-heading {
+    border: 1px solid #ccc !important;
+}
+*/
+.swcm_default_label{
+font-size :14px;
+font-weight:bold;
+}
+
+#ECW_create_new_template:hover{
+background-color:#79B71B;
+color:white;
+}
+
+.swcm_activate {
+        color: #fff !important;
+        background-color: #fff;
+        height: 61px;
+        
+}
+
+.swcm_activate a{
+        color: black !important;
+
+text-align: center;
+font-weight: bold;
+font-style: italic;
+font-family: initial;
+}
+
+.swcm_deactivate a{
+        color: black !important;
+}
+
+
+.styled-select {
+  background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
+  height: 29px;
+  overflow: hidden;
+  width: 240px;
+  border: 1px solid black;
+}
+.styled-select select {
+  background: transparent;
+  border: red;
+  font-size: 14px;
+  height: 29px;
+  padding: 5px;
+  width: 268px;
+}
+.styled-select.slate {
+  background: url(http://i62.tinypic.com/2e3ybe1.jpg) no-repeat right center;
+  height: 34px;
+  width: 240px;
+}
+.styled-select.slate select {
+  border: 1px solid black;
+  font-size: 16px;
+  height: 34px;
+  width: 268px;
+}
+.rounded {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+.semi-square {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+
+.blue {
+  background-color: white;
+  border: 1px solid black;
+}
+
+
+
+.blue select {
+  color: black;
+}
+
+#mainselection select {
+  border: 0;
+  color: #EEE;
+  background: transparent;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 2px 10px;
+  width: 378px;
+  *width: 350px;
+  *background: blue;
+  -webkit-appearance: none;
+}
+#mainselection {
+  overflow: hidden;
+  width: 350px;
+  -moz-border-radius: 9px 9px 9px 9px;
+  -webkit-border-radius: 9px 9px 9px 9px;
+  border-radius: 9px 9px 9px 9px;
+  box-shadow: blue;
+  background: #58B14C url("http://i62.tinypic.com/15xvbd5.png") no-repeat scroll 319px center;
+}
+/* -------------------- Select Box Styles: stackoverflow.com Method */
+/* -------------------- Source: http://stackoverflow.com/a/5809186 */
+select#soflow,
+select#soflow-color {
+  -webkit-appearance: button;
+  -webkit-border-radius: 2px;
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  -webkit-padding-end: 20px;
+  -webkit-padding-start: 2px;
+  -webkit-user-select: none;
+  background-image: url(http://i62.tinypic.com/15xvbd5.png), -webkit-linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);
+  background-position: 97% center;
+  background-repeat: no-repeat;
+  border: 1px solid #AAA;
+  color: #555;
+  font-size: inherit;
+  margin: 20px;
+  overflow: hidden;
+  padding: 5px 10px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 300px;
+}
+select#soflow-color {
+  color: black;
+  background-image: url(http://i62.tinypic.com/15xvbd5.png), -webkit-linear-gradient(#779126, #779126 40%, #779126);
+  background-color: blue;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  padding-left: 15px;
+}
+
+
+.button {
+
+  background-color: #006799;
+  border: none;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;margin: 4px 2px;cursor: pointer;color: #fff !important;
+border-color: #006799!important;background: #006799!important;-webkit-box-shadow: 0 1px 0 #006799!important;box-shadow: 0 1px 0 #006799!important;vertical-align: top;}
+
+/*SWCM_HomePage css*/
+
+  .tooltip1 {
+    position: relative;
+    display: inline-block;
+    
+}
+
+.tooltip1 .tooltiptext1 {
+    visibility: hidden;
+    width: 120px;
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    right: 110%;
+}
+
+.tooltip1 .tooltiptext1::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    margin-top: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent transparent grey;
+}
+.tooltip1:hover .tooltiptext1 {
+    visibility: visible;
+}
+
+/*css for edit page*/
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 15px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #4285f4;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #4285f4;
+    cursor: pointer;
+    border-color: #4285F4;
+}
+.sidenav {
+    height: 90%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #fff;
+    overflow-x: hidden;
+    transition: 0.5s;
+    
+     margin-left: 12%;
+    margin-top: 6.5%;
+    float: right;
+    border-radius: 4%;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 100px;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    z-index: 1200;
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+   
+}
+
+
+.closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  
+}
+
+.sidenav {padding-top: 15px;}
+
+               
+.tooltip1 {
+    position: relative;
+    display: inline-block;
+    
+}
+
+.tooltip1 .tooltiptext1 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    right: 110%;
+}
+
+.tooltip1 .tooltiptext1::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    margin-top: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent transparent black;
+}
+.tooltip1:hover .tooltiptext1 {
+    visibility: visible;
+}
+#mysidenav20 {
+    list-style-type: none;
+    margin: 20px 25px;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    height: 38px;
+}
+
+#mysidenav20 li {
+    float: left;
+}
+
+#mysidenav20 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 11px 16px;
+    
+}
+
+#mysidenav20 li a:hover:not(.active) {
+    background-color: #111;
+}
+
+
+#mysidenav20 li.active a {
+    background-color: #4285f4;
+}
+
+
+/* The container */
+.containerimg {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.containerimg input {
+    position: absolute;
+    opacity: 0;
+}
+
+/* Create a custom radio button */
+.checkmarkimg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+    border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.containerimg:hover input ~ .checkmarkimg {
+    background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.containerimg input:checked ~ .checkmarkimg {
+    background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmarkimg:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.containerimg input:checked ~ .checkmarkimg:after {
+    display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.containerimg .checkmarkimg:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+#trashCan:hover > .template-drop-section {
+  
+  display:block;
+}
+.template-drop-section{
+  display: none;
+}
+  #draggables {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #000;
+  border-radius: 15px;
+  width: 12%;
+  height: 140px;
+
+}
+
+#trashCan {
+  float: right;
+}
+.appearance-option{
+margin:0 25px;
+       }
+      
+/*.eminputtext input {
+  border: none  ;
+  border-bottom: 2px solid #f9f9f9;
+  display: block;
+  width:85%;
+  background:transparent;
+  overflow:hidden;
+  font-size:16px;
+  color:#000;
+  box-shadow: none;
+}*/
+.eminputtext input:focus {
+  outline: none;
+}
+.eminputtext label, .eminputtext label, .appearance-option label {
+  font-size: 14px;
+  color:#6e6e6e;
+}
+.bar {
+  position: relative;
+  display: block;
+  width: 90%;
+  margin-left: 5%;
+}
+.bar:before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  bottom: 0;
+  background:blue;
+  height: 2px;
+  -webkit-transition: left 0.5s ease-out, right 0.5s ease-out;
+  transition: left 0.5s ease-out, right 0.5s ease-out;
+}
+:required:invalid{
+  box-shadow:none;
+}
+:required:focus{
+  box-shadow:none !important;
+}
+input:focus ~ .bar:before {
+  left: 0;
+  right: 0;
+}
+
+/*important*/
+/*used show and hide edit menu in the edit page*/
+.dragelementshowsmenu .dragelementshowicons{
+ /*display:none;*/
+ visibility: hidden;
+ opacity:0;
+ transition: 0.3s;
+}
+
+.dragelementshowsmenu:hover .dragelementshowicons{
+  /*display:block;*/
+  visibility: visible;
+  opacity:1;
+  transition: 0.1s;
+}
+/*important*/
+
+
+#order_details h2{
+  font-family: inherit !important;
+}
+
+.em-template-sidebar{
+  width: 473px;
+  transform: translateX(475px);
+  -webkit-transition: all 500ms cubic-bezier(0.215, 0.610, 0.355, 1.000); 
+   -moz-transition: all 500ms cubic-bezier(0.215, 0.610, 0.355, 1.000); 
+     -o-transition: all 500ms cubic-bezier(0.215, 0.610, 0.355, 1.000); 
+        transition: all 500ms cubic-bezier(0.215, 0.610, 0.355, 1.000); /* easeOutCubic */
+
+-webkit-transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000); 
+   -moz-transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000); 
+     -o-transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000); 
+        transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000); /* easeOutCubic */
+}
+
+.em-template-sidebar.active{
+  transform: translateX(0px);
+}
+
+.ordertableedit{
+  font-family: inherit !important;
+}
+
+.dragelementshowsmenu {
+  position: relative;
+
+}
+
+.dragelementshowicons{
+  position: absolute;
+  width: 100%; height: 100%;
+}
+
+
+
+.dragelementshowicons {
+  border: 2px solid transparent !important; }
+
+.dragelementshowicons:hover{
+  border: 2px solid #78ABC1 !important;
+}
+
+/*.dragelementshowicons i, .edit_hover_class i {
+    cursor: pointer;
+    background: #727272 !important !important; }*/
+
+
+
+    .material-switch > input[type="checkbox"] {
+    display: none;   
+}
+
+.material-switch > label {
+    cursor: pointer;
+    height: 0px;
+    position: relative; 
+    width: 40px;  
+}
+
+.material-switch > label::before {
+    background: rgb(0, 0, 0);
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    content: '';
+    height: 16px;
+    margin-top: -8px;
+    position:absolute;
+    opacity: 0.3;
+    transition: all 0.4s ease-in-out;
+    width: 40px;
+}
+.material-switch > label::after {
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    content: '';
+    height: 24px;
+    left: -4px;
+    margin-top: -8px;
+    position: absolute;
+    top: -4px;
+    transition: all 0.3s ease-in-out;
+    width: 24px;
+}
+
+.material-switch > label:active::after {
+    transform: scale(1.15, 0.85); }
+
+.material-switch > input[type="checkbox"]:checked + label::before {
+    background: inherit;
+    opacity: 0.5;
+}
+.material-switch > input[type="checkbox"]:checked + label::after {
+    background: inherit;
+    left: 20px;
+}
+
+.dragelementshowicons .fa-arrows{
+  cursor: move;
+}
+.email-customizer-pro .badge {
+  
+  padding: 5px 10px;
+  border-radius: 40px;
+}
+
+.email-customizer-pro .badge-success {
+  
+  background-color: #00b13a;
+}
+
+.email-customizer-pro .badge-danger {
+  
+  background-color: #ff6460;
+}
